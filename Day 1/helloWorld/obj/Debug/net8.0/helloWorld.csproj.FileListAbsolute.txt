@@ -1,0 +1,15 @@
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/bin/Debug/net8.0/helloWorld
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/bin/Debug/net8.0/helloWorld.deps.json
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/bin/Debug/net8.0/helloWorld.dll
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/bin/Debug/net8.0/helloWorld.pdb
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfoInputs.cache
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfo.cs
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.sourcelink.json
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.dll
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/refint/helloWorld.dll
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.pdb
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
+/Users/ishwor/Documents/GitHub/cSharp.NET/Day 1/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll

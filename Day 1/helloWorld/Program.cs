@@ -6,7 +6,7 @@ namespace Coding.Exercise {
         public void RunExercise() {
             string myString = "This is a string.";
             decimal myDecimal = 1000d;
-            myBoolean = true;
+            bool myBoolean = true;
 
             Console.WriteLine(myString.GetType());
             Console.WriteLine(myDecimal.GetType());

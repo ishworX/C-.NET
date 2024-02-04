@@ -4,7 +4,14 @@ namespace Coding.Exercise {
 
     public class Exercise {
         public void RunExercise() {
-            Console.WriteLine("Hello World!");
+            string myString = "This is a string.";
+            decimal myDecimal = 1000d;
+            myBoolean = true;
+
+            Console.WriteLine(myString.GetType());
+            Console.WriteLine(myDecimal.GetType());
+            Console.WriteLine(myBoolean.GetType());
+
         }
     }
 }

@@ -9,10 +9,10 @@ namespace Coding.Exercise
         {
             int myFirstValue = 7;
             int mySecondValue = 5;
-            //Write Your Code Here
-            //Console.WriteLine(myFirstValue mySecondValue);
-            
-            //Write You Code Above This Line
+            Console.WriteLine(myFirstValue + mySecondValue);
+            Console.WriteLine(myFirstValue - mySecondValue);
+            Console.WriteLine(myFirstValue * mySecondValue);
+            Console.WriteLine(myFirstValue > mySecondValue);
         }
     }
 }
